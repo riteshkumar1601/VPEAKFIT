@@ -2,7 +2,7 @@ SIH Problem Track :  1599. Ideas that can boost fitness activites and assist in 
 ## VPeakFit
 
 ## USage
-1. Run react
+Step 1. Run react
 ```
 cd VPeakFIt
 ```
@@ -12,7 +12,7 @@ npm install
 ```
 npm run dev
 ```
-3. Flask API
+Step 2. Flask API
 ```
 cd backend
 ```
