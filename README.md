@@ -3,11 +3,23 @@ SIH Problem Track :  1599. Ideas that can boost fitness activites and assist in 
 
 ## USage
 1. Run react
-```cd VPeakFIt```
-```npm install```
-```npm run dev```
+```
+cd VPeakFIt
+```
+```
+npm install
+```
+```
+npm run dev
+```
 3. Flask API
-```cd backend```
-```pip install -r requirements.txt```
-```python app.py```
+```
+cd backend
+```
+```
+pip install -r requirements.txt
+```
+```
+python app.py
+```
 
