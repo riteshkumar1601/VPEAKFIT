@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./UserInjuryInput.css";
+import ReactMarkdown from 'react-markdown';
 
 const UserInjuryInput = () => {
   const [user, setUser] = useState({
@@ -229,7 +230,7 @@ const UserInjuryInput = () => {
             </button>
           </form>
 
-          {recommendations && <p className="result">{recommendations}</p>}
+          {recommendations && <p className="result"><ReactMarkdown>{recommendations}</ReactMarkdown></p>}
         </div>
       </section>
     </>
